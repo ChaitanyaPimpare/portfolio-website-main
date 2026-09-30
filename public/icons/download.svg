@@ -1,0 +1,52 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- DEFINITIONS -->
+  <defs>
+    <!-- Gradient Background -->
+    <linearGradient id="gradOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A3D"></stop>
+      <stop offset="100%" stop-color="#F97316"></stop>
+    </linearGradient>
+
+    <!-- Gloss Effect -->
+    <linearGradient id="gloss" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.6)"></stop>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- MAIN CIRCLE -->
+  <circle cx="80" cy="80" r="70" fill="url(#gradOrange)"></circle>
+
+  <!-- GLOSS OVERLAY -->
+  <ellipse cx="80" cy="50" rx="55" ry="30" fill="url(#gloss)"></ellipse>
+
+  <!-- CP LETTER (MODERN CUT STYLE) -->
+  <path d="
+    M105 55
+    C95 40, 65 40, 50 60
+    C35 80, 35 105, 55 120
+    C70 130, 95 125, 105 105
+    L90 98
+    C82 110, 65 112, 55 100
+    C45 88, 47 70, 55 60
+    C65 48, 82 50, 90 62
+    Z
+
+    M70 45
+    L70 115
+    L85 115
+    L85 85
+    C100 85, 115 75, 115 60
+    C115 45, 100 35, 85 35
+    L70 35
+    Z
+
+    M85 50
+    C95 50, 100 53, 100 60
+    C100 67, 95 70, 85 70
+    L85 50
+    Z
+    " fill="white"></path>
+
+</svg>

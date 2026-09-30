@@ -5,8 +5,9 @@ import { useEffect, useState } from "react";
 export default function Loader({ onFinish }) {
   const roles = [
     "Full Stack Developer",
-    "React Developer",
-    "Backend Devloper"
+    "Python Devloper",
+    "React Developer"
+    
    
   ];
 

@@ -28,7 +28,7 @@ const projects = [
   desc: "AI-powered healthcare CRM for managing healthcare professional interactions with AI-assisted workflows.",
   link: "#",
   github: "https://github.com/ChaitanyaPimpare/AI-Healthcare-CRM",
-  img: "/p3.png",
+  img: "/icon/image.png",
   tags: ["React", "FastAPI", "PostgreSQL", "LangGraph", "Groq API"],
 },
 {

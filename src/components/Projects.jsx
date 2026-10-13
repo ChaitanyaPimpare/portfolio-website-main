@@ -9,21 +9,29 @@ import "swiper/css/navigation";
 const projects = [
   {
     name: "FX-ALGO",
-    desc: "E-commerce platform with authentication, multi-payment & Telegram bot automation",
-    link: "https://fxalgo.net/",
+    desc: "E-commerce platform with authentication, multi-payment integration, and Telegram bot automation",
+    link: "https://frontend-psi-seven-39.vercel.app/",
     github: "https://github.com/ChaitanyaPimpare",
     img: "/p1.png",
-    // tags: ["React", "Flask", "AWS"],
-    tags: ["React", "SpringBoot", "AWS"],
+    tags: ["React", "Python", "Flask", "MySQL", "AWS"],
   },
   {
     name: "EasyHunt",
-    desc: "Property document search system with advanced filtering",
+    desc: "Property document search system with advanced filtering and efficient data retrieval",
     link: "https://easyhunt.in/",
     github: "https://github.com/ChaitanyaPimpare",
     img: "/p2.png",
-    tags: ["React", "Node.js","MongoDb"],
+    tags: ["React", "Python", "Flask", "MySQL"],
   },
+  {
+    name: "AI-First CRM",
+    desc: "AI-powered healthcare CRM module for managing healthcare professional interactions with AI-assisted workflows",
+    link: "#",
+    github: "https://github.com/ChaitanyaPimpare",
+    img: "/p3.png",
+    tags: ["React", "FastAPI", "PostgreSQL", "LangGraph", "Groq API"],
+  },
+
   {
     name: "Easyhunt-Launching-Website",
     desc: "Product Lauching Website",

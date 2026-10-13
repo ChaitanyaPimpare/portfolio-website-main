@@ -1,26 +1,28 @@
 import { motion } from "framer-motion";
 
+import { motion } from "framer-motion";
+
 const experiences = [
   {
     company: "Encegen AI Labs",
     location: "Pune",
     date: "Oct 2025 - Apr 2026",
     role: "Software Development Intern",
-    desc: "Developed full-stack applications using React, Flask, MySQL and deployed on AWS EC2 with Nginx.",
+    desc: "Developed full-stack applications using React.js, Python Flask, REST APIs, and MySQL, with deployment experience on AWS EC2 and Nginx.",
   },
   {
     company: "Freelance / Client Projects",
     location: "Remote",
     date: "2024 - Present",
     role: "Full Stack Developer",
-    desc: "Built production systems like FX-ALGO, EasyHunt with authentication, APIs, and payment integrations.",
+    desc: "Built full-stack applications including FX-ALGO, integrating backend APIs, authentication, database operations, and multiple payment services.",
   },
   {
     company: "Personal Projects",
     location: "Self",
     date: "2023 - 2024",
     role: "Backend & Web Developer",
-    desc: "Developed systems like Job Recommendation System and CSC Management System using Flask & Spring Boot.",
+    desc: "Developed projects including a Job Recommendation System and CSC Management System using Python Flask, Java Spring Boot, and SQL databases.",
   },
 ];
 

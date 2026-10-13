@@ -4,6 +4,8 @@ const skills = [
  { name: "REACT", icon: "/icons/react.png" },
   { name: "JAVASCRIPT", icon: "/icons/js.png" },
   { name: "PYTHON", icon: "/icons/python.webp" },
+  { name: "Flask", icon: "/icons/flask" },
+
   { name: "JAVA", icon: "/icons/java.png" }, 
   // { name: "SpringBoot", icon: "/icons/spring.svg" }, 
   { name: "Node", icon: "/icons/nodejs.svg" }, 

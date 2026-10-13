@@ -2,16 +2,15 @@ import { motion } from "framer-motion";
 
 const services = [
   {
-    title: "Production-Ready Python Full Stack Development",
-    desc: "Building and deploying scalable web applications using Python, Flask, FastAPI, and React, with REST APIs, SQL databases, and cloud deployment experience.",
-    img: "/service1.webp",
-  },
-  {
-    title: "Python API Development & System Integration",
-    desc: "Designing secure REST APIs using Flask and FastAPI, implementing JWT authentication, integrating frontend-backend workflows, and handling database operations efficiently.",
-    img: "/service2.jpg",
-  },
-
+  title: "Production-Ready Full Stack Development",
+  desc: "Building and deploying scalable web applications using Python, Flask, FastAPI, and React, with REST APIs, SQL databases, and cloud deployment experience.",
+  img: "/service1.webp",
+},
+{
+  title: "API Development & System Integration",
+  desc: "Designing secure REST APIs with JWT authentication, integrating frontend-backend workflows, and handling real-time data operations efficiently.",
+  img: "/service2.jpg",
+},
 {
   title: "Modern UI Development with React",
   desc: "Crafting visually appealing and responsive web interfaces using React, Tailwind CSS, and animations, ensuring intuitive UX, fast performance, and pixel-perfect design.",
